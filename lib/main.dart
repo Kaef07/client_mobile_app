@@ -42,7 +42,7 @@ class _MyAppState extends State<MyApp> {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             Text(
-              'Belajar Textfield, CheckBox, Validation',
+              'Textfield, CheckBox, Validation',
               style: TextStyle(
                   color: Colors.black,
                   fontSize: 40,
